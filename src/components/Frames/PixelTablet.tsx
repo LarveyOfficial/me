@@ -12,13 +12,7 @@ export default function PixelTablet({
   innerClassName?: string
 }) {
   return (
-    <svg
-      xmlns="http://www.w3.org/2000/svg"
-      width="1427"
-      height="935"
-      viewBox="0 0 1427 935"
-      className={svgClassName}
-    >
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1427 935" className={svgClassName}>
       <rect id="Bezel" fill="#efedee" width="1427" height="935" rx="58" ry="58" />
       <path
         id="Screen"
